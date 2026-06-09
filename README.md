@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects<br>🌱 I’m currently learning Web Scraping & Unity
+🔭 I’m currently working on Personal Projects<br>🌱 I’m currently learning Unity
 
 
 ## 🌐 Socials:
